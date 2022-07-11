@@ -28,7 +28,7 @@ We need to prevent people/servers that abuse the bot, break bot rules.
 5. I'm questioning why do you need all this data, and this Privacy Policy doesn't answer my question. What should I do?
 You can reach us by the following things:
 Join our Support Server on discord
-Contact me on discord [discord.gg/KuN3BUEfzU](https://discord.gg/KuN3BUEfzU)
+Contact me on discord [discord.gg/believebot](https://discord.gg/CaUuqM5uXC)
 6. How can we delete our entire data?
 Simply join our support server and ask any of the bot moderator to delete your entire data, They will delete your entrie data without asking any question.
 Please note, that we can change this policy without any warning at any given time.
