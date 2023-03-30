@@ -1,6 +1,6 @@
-Scarp's Privacy Policy
+Drazing's Privacy Policy
 
-By using Scarp you accept with its privacy policy.
+By using Drazing you accept with its privacy policy.
 
 1. What does it store?
 
