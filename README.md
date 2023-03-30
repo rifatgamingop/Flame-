@@ -1,6 +1,6 @@
-BelieveBot's Privacy Policy
+Scarp's Privacy Policy
 
-By using BelieveBot you accept with its privacy policy.
+By using Scarp you accept with its privacy policy.
 
 1. What does it store?
 
@@ -28,7 +28,7 @@ We need to prevent people/servers that abuse the bot, break bot rules.
 5. I'm questioning why do you need all this data, and this Privacy Policy doesn't answer my question. What should I do?
 You can reach us by the following things:
 Join our Support Server on discord
-Contact me on discord [discord.gg/believebot](https://discord.gg/CaUuqM5uXC)
+Contact me on discord [discord.gg/jfkdS9ksFJ](https://discord.gg/jfkdS9ksFJ)
 6. How can we delete our entire data?
 Simply join our support server and ask any of the bot moderator to delete your entire data, They will delete your entrie data without asking any question.
 Please note, that we can change this policy without any warning at any given time.
