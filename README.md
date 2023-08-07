@@ -1,6 +1,6 @@
-Flame™'s Privacy Policy
+Zyden's Privacy Policy
 
-By using Flame™ you accept with its privacy policy.
+By using Zyden you accept with its privacy policy.
 
 1. What does it store?
 
